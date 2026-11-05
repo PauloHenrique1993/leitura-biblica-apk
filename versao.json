@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
+  "versionCode": 6,
+  "versionName": "1.0.5",
   "url": "https://github.com/PauloHenrique1993/leitura-biblica-apk/releases/latest/download/leitura-biblica.apk",
-  "message": "Devocional mais simples: os stories seguem em sequência e abrem direto da aba Hoje."
+  "message": "Cada parte do devocional agora começa com um slide de abertura (tema e versículo, Reflexão, Para pensar e Oração)."
 }
